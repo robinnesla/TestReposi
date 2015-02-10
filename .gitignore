@@ -10,3 +10,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/TestReposi/nbproject/private/
+/TestReposi/manifest.mf
+/TestReposi/build.xml
+/nbproject/private/
+/build.xml
+/manifest.mf
+/vpproject
